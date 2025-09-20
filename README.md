@@ -11,8 +11,7 @@ Building upon the foundational research of Von Oswald et al. (2022), this study 
 ### **Repository Contents**
 
 * `experiment_setup.ipynb`: This Jupyter notebook contains the complete, reproducible code used to run all experiments described in the project report. It allows for the replication of the baseline and all six phases of the study.
-* `.npy/` folder: This directory stores the raw data outputs from each experimental run. The results are saved in NumPy `.npy` files for easy access and analysis.
-* `loss_curves/`, `sensitivity/`, and `loss/` folders: These directories contain the plots generated from the experimental data, visualizing the training loss, sensitivity analysis, and other key metrics. These plots provide a clear representation of the model's behavior under different architectural configurations.
+
 
 ### **Key Findings**
 
